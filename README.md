@@ -1,2 +1,1 @@
 # servlet
-servlet example
