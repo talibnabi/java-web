@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b48c86f-dc56-4c5e-8fd0-950fb39a0817" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../abb-lesson-21-web/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-lesson-21-web/.idea/artifacts/abb_lesson_21_web_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-lesson-21-web/.idea/artifacts/abb_lesson_21_web_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-lesson-21-web/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-lesson-21-web/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-lesson-21-web/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abb-lesson-21-web/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664029010840</updated>
-      <workItem from="1664029012436" duration="615000" />
+      <workItem from="1664029012436" duration="937000" />
     </task>
     <servers />
   </component>
