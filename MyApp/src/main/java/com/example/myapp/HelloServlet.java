@@ -15,6 +15,7 @@ import javax.servlet.annotation.*;
 
 @WebServlet(name = "MyApp", value = "/MyApp")
 public class HelloServlet extends HttpServlet {
+    //app
 
     private String message;
     //    private UserDaoInter userDaoInter= Context.instanceUserDao();
