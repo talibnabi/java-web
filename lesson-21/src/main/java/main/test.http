@@ -1,3 +1,9 @@
 POST  http://localhost:8099/first?user=alisa&password=891011
 Content-Type: application/x-www-form-urlencoded
 Custom-Header: a123
+
+####
+GET http://localhost:8099/counter
+
+####
+GET http://localhost:8099/get

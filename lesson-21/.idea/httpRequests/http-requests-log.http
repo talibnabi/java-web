@@ -1,3 +1,81 @@
+GET http://localhost:8099/get
+
+<> 2022-09-27T063007.200.txt
+
+###
+
+GET http://localhost:8099/counter
+
+<> 2022-09-27T063006.200.txt
+
+###
+
+GET http://localhost:8099/get
+
+<> 2022-09-27T063003.200.txt
+
+###
+
+GET http://localhost:8099/get
+
+<> 2022-09-27T062920.200.txt
+
+###
+
+GET http://localhost:8099/counter
+
+<> 2022-09-27T062919.200.txt
+
+###
+
+GET http://localhost:8099/get
+
+<> 2022-09-27T062917.200.txt
+
+###
+
+GET http://localhost:8099/get
+
+<> 2022-09-27T062916.200.txt
+
+###
+
+GET http://localhost:8099/counter
+
+<> 2022-09-27T062913.200.txt
+
+###
+
+GET http://localhost:8099/get
+
+<> 2022-09-27T062703.200.txt
+
+###
+
+GET http://localhost:8099/counter
+
+<> 2022-09-27T062701.200.txt
+
+###
+
+GET http://localhost:8099/get
+
+<> 2022-09-27T062652.200.txt
+
+###
+
+GET http://localhost:8099/counter
+
+<> 2022-09-27T062650.200.txt
+
+###
+
+GET http://localhost:8099/get
+
+<> 2022-09-27T062648.200.txt
+
+###
+
 POST http://localhost:8099/first?user=alisa&password=891011
 Content-Type: application/x-www-form-urlencoded
 Custom-Header: a123
@@ -224,92 +302,6 @@ POST http://localhost:8099/hello
 name=talib&password=123
 
 <> 2022-09-25T012012.200.txt
-
-###
-
-POST http://localhost:8099/hello
-
-name=talib&password=123
-
-<> 2022-09-25T011956.200.txt
-
-###
-
-POST http://localhost:8099/hello
-name=talib&password=123:
-
-<> 2022-09-25T011834.400.html
-
-###
-
-POST http://localhost:8099/hello
-name=talib&password=123:
-
-<> 2022-09-25T011824.400.html
-
-###
-
-POST http://localhost:8099/hello
-name=talib&password=123:
-
-<> 2022-09-25T011541.400.html
-
-###
-
-POST http://localhost:8099/hello
-name=talib&password=123:
-
-<> 2022-09-25T011536.400.html
-
-###
-
-POST http://localhost:8099/hello
-name=talib&password=123:
-
-###
-
-POST http://localhost:8099/hello
-name=talib&password=123:
-
-<> 2022-09-25T011101.400.html
-
-###
-
-POST http://localhost:8099/hello
-name=talib&password=123:
-
-<> 2022-09-25T011057.400.html
-
-###
-
-GET http://localhost:8099/hello?x=5&y=10&z=1&z=4&z=34
-
-<> 2022-09-25T010746.200.txt
-
-###
-
-GET http://localhost:8099/hello?x=5&y=10&z=1&z=4&z=34
-
-<> 2022-09-25T010719.200.txt
-
-###
-
-GET http://localhost:8099/hello?x=5&y=10&z=1&z=4&z=34
-
-<> 2022-09-25T010642.200.txt
-
-###
-
-GET http://localhost:8099/hello?x=5&y=10&z=1&z=4&z=34
-
-<> 2022-09-25T004232.200.txt
-
-###
-
-POST http://localhost:8099/hello
-name=talib&password=123:
-
-<> 2022-09-25T003603.400.html
 
 ###
 
