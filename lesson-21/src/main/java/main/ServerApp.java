@@ -11,6 +11,7 @@ public class ServerApp {
     private static void createServer() throws Exception {
         Server server = new Server(8099);
         ServletContextHandler handler = new ServletContextHandler();
+        handler.addServlet(HtmlFormattedServlet.class, "/html");
         handler.addServlet(MyFirstServlet.class, "/first");
         server.setHandler(handler);
         server.start();

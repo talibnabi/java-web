@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b48c86f-dc56-4c5e-8fd0-950fb39a0817" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/test.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/HtmlFormattedServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/main/MyFirstServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/MyFirstServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/test.http" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/test.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/main/MyFirstServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/MyFirstServlet.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +48,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Workspace/java-web/MyApp&quot;
   }
 }</component>
-  <component name="RunManager" selected="HTTP Request.test | #1">
+  <component name="RunManager" selected="Application.ServerApp">
     <configuration name="ServerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.ServerApp" />
       <module name="lesson-21" />
@@ -75,8 +76,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="HTTP Request.test | #1" />
         <item itemvalue="Application.ServerApp" />
+        <item itemvalue="HTTP Request.test | #1" />
         <item itemvalue="HTTP Request.test | ###2" />
         <item itemvalue="HTTP Request.test | ###1" />
         <item itemvalue="HTTP Request.test | ##" />
@@ -95,7 +96,7 @@
       <workItem from="1664088546532" duration="6454000" />
       <workItem from="1664134199342" duration="616000" />
       <workItem from="1664147549999" duration="587000" />
-      <workItem from="1664265906600" duration="5465000" />
+      <workItem from="1664265906600" duration="8386000" />
     </task>
     <servers />
   </component>

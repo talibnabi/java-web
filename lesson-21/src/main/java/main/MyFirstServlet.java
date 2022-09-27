@@ -25,8 +25,10 @@ public class MyFirstServlet extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         try (PrintWriter writer = resp.getWriter()) {
+            String customHeader = req.getHeader("Custom-Header");
             String user = req.getParameter("user");
             String password = req.getParameter("password");
+            writer.printf("Custom-Header: %s\n", customHeader);
             writer.printf("user: %s\n", user);
             writer.printf("password: %s\n", password);
         }
