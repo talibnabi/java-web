@@ -7,3 +7,9 @@ GET http://localhost:8099/counter
 
 ####
 GET http://localhost:8099/get
+
+####
+POST http://localhost:8099/counter
+
+####
+POST http://localhost:8099/get

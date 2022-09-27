@@ -15,8 +15,10 @@ public class GetCounterServlet extends HttpServlet {
         this.c = c;
     }
 
+
+    //or GET
     @Override
-    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+    protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         try (PrintWriter writer = resp.getWriter()) {
             writer.printf("Count: %d", c.getNumber());
         }
