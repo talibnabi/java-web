@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b48c86f-dc56-4c5e-8fd0-950fb39a0817" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../lesson-22/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson-22/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson-22/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson-22/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson-22/src/main/java/MyFirstServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson-22/src/main/java/ServerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson-22/src/main/resources/test1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson-22/target/classes/MyFirstServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson-22/target/classes/ServerApp.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson-22/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson-22/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +105,7 @@
       <workItem from="1664088546532" duration="6454000" />
       <workItem from="1664134199342" duration="616000" />
       <workItem from="1664147549999" duration="587000" />
-      <workItem from="1664265906600" duration="14147000" />
+      <workItem from="1664265906600" duration="15538000" />
     </task>
     <servers />
   </component>
