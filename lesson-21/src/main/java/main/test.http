@@ -1,6 +1,0 @@
-GET http://localhost:8099/hello?x=5&y=10&z=1&z=4&z=34
-
-####
-POST localhost:8099/hello
-name=talib&password=123
-
