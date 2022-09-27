@@ -1,3 +1,29 @@
+POST http://localhost:8099/first?user=alisa&password=891011
+Content-Type: application/x-www-form-urlencoded
+
+<> 2022-09-27T035228.200.txt
+
+###
+
+POST http://localhost:8099/first?user=alisa&password=891011
+
+<> 2022-09-27T035220.200.txt
+
+###
+
+POST http://localhost:8099/first?user=alisa&password=891011
+Content-Type: application/x-www-form-urlencoded
+
+<> 2022-09-27T035206.200.txt
+
+###
+
+POST http://localhost:8099/first?user=alisa&password=891011
+
+<> 2022-09-27T034711.200.txt
+
+###
+
 POST http://localhost:8099/hello?user=talib&password=123
 
 <> 2022-09-25T014353.200.txt

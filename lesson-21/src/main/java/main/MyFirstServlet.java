@@ -21,4 +21,14 @@ public class MyFirstServlet extends HttpServlet {
             writer.printf("First number: %d , Last Number: %d , sum: %d", firstNum, lastNum, sum);
         }
     }
+
+    @Override
+    protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        try (PrintWriter writer = resp.getWriter()) {
+            String user = req.getParameter("user");
+            String password = req.getParameter("password");
+            writer.printf("user: %s\n", user);
+            writer.printf("password: %s\n", password);
+        }
+    }
 }
