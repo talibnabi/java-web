@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b48c86f-dc56-4c5e-8fd0-950fb39a0817" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/CounterServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/CounterServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/GetCounterServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/GetCounterServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/HtmlFormattedServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/HtmlFormattedServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/MyFirstServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/MyFirstServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/ServerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ServerApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/test.http" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/CounterServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/CounterServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/GetCounterServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/GetCounterServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson-22/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson-22/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson-22/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson-22/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +47,14 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Workspace/java-web/MyApp&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Workspace\java-web\lesson-21\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunManager" selected="HTTP Request.test | ###1">
     <configuration name="ServerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ServerApp" />
@@ -99,7 +103,7 @@
       <workItem from="1664088546532" duration="6454000" />
       <workItem from="1664134199342" duration="616000" />
       <workItem from="1664147549999" duration="587000" />
-      <workItem from="1664265906600" duration="12660000" />
+      <workItem from="1664265906600" duration="14147000" />
     </task>
     <servers />
   </component>
