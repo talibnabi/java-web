@@ -16,7 +16,7 @@ public class CounterServlet extends HttpServlet {
     }
 
 
-    //or GET 
+    //or GET
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         try (PrintWriter writer = resp.getWriter()) {
