@@ -1,8 +1,11 @@
-package main;
-
+import controller.CounterServlet;
+import controller.GetCounterServlet;
+import controller.HtmlFormattedServlet;
+import controller.MyFirstServlet;
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.servlet.ServletContextHandler;
 import org.eclipse.jetty.servlet.ServletHolder;
+import service.Counter;
 
 public class ServerApp {
     public static void main(String[] args) throws Exception {

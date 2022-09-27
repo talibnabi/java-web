@@ -1,4 +1,4 @@
-package main;
+package service;
 
 public class Counter {
     private int number=0;

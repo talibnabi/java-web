@@ -1,17 +1,18 @@
-package main;
+package controller;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
+import service.Counter;
 
 import java.io.IOException;
 import java.io.PrintWriter;
 
-public class GetCounterServlet extends HttpServlet {
+public class CounterServlet extends HttpServlet {
     private final Counter c;
 
-    public GetCounterServlet(Counter c) {
+    public CounterServlet(Counter c) {
         this.c = c;
     }
 
@@ -20,7 +21,8 @@ public class GetCounterServlet extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         try (PrintWriter writer = resp.getWriter()) {
-            writer.printf("Count: %d", c.getNumber());
+            c.inc();
+            writer.println("Counting...");
         }
     }
 }
