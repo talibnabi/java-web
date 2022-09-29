@@ -16,7 +16,7 @@ public class ShowTextFileServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         String badExample = "src/main/resources/index.html";
-        String bestExample = getClass().getClassLoader().getResource("index.html").getFile();
+//        String bestExample = getClass().getClassLoader().getResource("index.html").getFile();
 
         List<String> lines = Files.readAllLines(Path.of(badExample));
         try (PrintWriter writer = resp.getWriter()) {

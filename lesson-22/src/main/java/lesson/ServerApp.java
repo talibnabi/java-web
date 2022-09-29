@@ -13,7 +13,8 @@ public class ServerApp {
         Server server = new Server(8093);
         ServletContextHandler handler = new ServletContextHandler();
         handler.addServlet(new ServletHolder(new ShowTextFileServlet()), "/showTextFile");
-        handler.addServlet(new ServletHolder(new ShowPictureServlet()),"/eifel");
+        handler.addServlet(new ServletHolder(new ShowEifelPictureServlet()),"/eifel");
+        handler.addServlet(new ServletHolder(new ShowEngineeringCollegeServlet()),"/college");
         server.setHandler(handler);
         server.start();
         server.join();

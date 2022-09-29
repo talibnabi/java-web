@@ -5,19 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6d8368f-0045-48b8-99e9-e3ef7051f514" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson/ShowPictureServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/eifel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/lesson/ServerApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-21/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson-21/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson/ShowEngineeringCollegeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/college.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MyFirstServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson/ShowTextFileServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ServerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson/ServerApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/test1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MyFirstServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ServerApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test1.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson/ServerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson/ServerApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson/ShowPictureServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson/ShowEifelPictureServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson/ShowTextFileServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson/ShowTextFileServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lesson/ServerApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lesson/ServerApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lesson/ShowPictureServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lesson/ShowTextFileServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lesson/ShowTextFileServlet.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664299616057</updated>
       <workItem from="1664299618030" duration="6730000" />
-      <workItem from="1664436388741" duration="2702000" />
+      <workItem from="1664436388741" duration="4382000" />
     </task>
     <servers />
   </component>
