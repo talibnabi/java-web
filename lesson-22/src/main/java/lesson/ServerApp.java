@@ -13,8 +13,9 @@ public class ServerApp {
         Server server = new Server(8093);
         ServletContextHandler handler = new ServletContextHandler();
         handler.addServlet(new ServletHolder(new ShowTextFileServlet()), "/showTextFile");
-        handler.addServlet(new ServletHolder(new ShowEifelPictureServlet()),"/eifel");
-        handler.addServlet(new ServletHolder(new ShowEngineeringCollegeServlet()),"/college");
+//        handler.addServlet(new ServletHolder(new ShowEifelPictureServlet()),"/eifel");
+//        handler.addServlet(new ServletHolder(new ShowEngineeringCollegeServlet()),"/college");
+        handler.addServlet(new ServletHolder(new StaticFileServlet()),"/*");
         server.setHandler(handler);
         server.start();
         server.join();
