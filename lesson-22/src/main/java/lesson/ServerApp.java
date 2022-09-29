@@ -1,3 +1,5 @@
+package lesson;
+
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.servlet.ServletContextHandler;
 import org.eclipse.jetty.servlet.ServletHolder;
@@ -8,9 +10,10 @@ public class ServerApp {
     }
 
     private static void createServer() throws Exception {
-        Server server = new Server(8099);
+        Server server = new Server(8093);
         ServletContextHandler handler = new ServletContextHandler();
-        handler.addServlet(new ServletHolder(new MyFirstServlet()), "/first");
+        handler.addServlet(new ServletHolder(new ShowTextFileServlet()), "/showTextFile");
+        handler.addServlet(new ServletHolder(new ShowPictureServlet()),"/eifel");
         server.setHandler(handler);
         server.start();
         server.join();

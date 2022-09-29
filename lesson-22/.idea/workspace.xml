@@ -5,13 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6d8368f-0045-48b8-99e9-e3ef7051f514" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyFirstServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ServerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/test1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MyFirstServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ServerApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson/ShowPictureServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/eifel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/lesson/ServerApp.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lesson-21/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson-21/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MyFirstServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson/ShowTextFileServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ServerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson/ServerApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/test1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MyFirstServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ServerApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test1.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +28,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -47,10 +54,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Workspace/java-web/lesson-22/src/main/resources"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Workspace\java-web\lesson-22\src\main\resources" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Workspace\java-web\lesson-22\src\main\resources" />
     </key>
@@ -58,17 +69,21 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="ServerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ServerApp" />
+  <component name="RunManager" selected="Application.lesson.ServerApp">
+    <configuration name="lesson.ServerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson.ServerApp" />
       <module name="lesson-22" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/lesson-22/target/classes/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ServerApp" />
+        <item itemvalue="Application.lesson.ServerApp" />
+        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -80,7 +95,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664299616057</updated>
-      <workItem from="1664299618030" duration="3421000" />
+      <workItem from="1664299618030" duration="6730000" />
+      <workItem from="1664436388741" duration="2702000" />
     </task>
     <servers />
   </component>
