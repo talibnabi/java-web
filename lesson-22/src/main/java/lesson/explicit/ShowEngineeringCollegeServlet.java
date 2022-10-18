@@ -1,4 +1,4 @@
-package lesson;
+package lesson.explicit;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.ServletOutputStream;
@@ -10,11 +10,11 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 
-public class ShowEifelPictureServlet extends HttpServlet {
+public class ShowEngineeringCollegeServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        String badExample = "src/main/resources/eifel.jpg";
-        String bestExample = getClass().getClassLoader().getResource("eifel.jpg").getFile();
+        String badExample = "src/main/resources/college.jpg";
+//        String bestExample = getClass().getClassLoader().getResource("college.jpg").getFile();
         try(ServletOutputStream os=resp.getOutputStream()){
             Files.copy(Path.of(badExample),os);
         }
