@@ -1,0 +1,9 @@
+POST http://localhost:8089/hello?user=Jim&password=123
+Content-Type: application/x-www-form-urlencoded
+Custom-Header: ayuyes
+
+####
+GET localhost:8089/count
+
+####
+GET localhost:8089/get
