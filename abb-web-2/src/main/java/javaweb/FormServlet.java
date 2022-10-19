@@ -1,4 +1,4 @@
-package com.company.javaweb.controller;
+package javaweb;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServlet;

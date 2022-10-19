@@ -1,4 +1,4 @@
-package com.company.javaweb.entity;
+package javaweb;
 
 public class Student {
     private final String name;
