@@ -25,6 +25,7 @@ public class HelloServlet extends HttpServlet {
 //        req.getPart("a");
 //        req.getCookies();
 //        req.getHeader("a");
+//        System.out.println(wholeQueryString);
         Map<String, String[]> all = req.getParameterMap();
         // x -> ['5']
         // y -> ['7']

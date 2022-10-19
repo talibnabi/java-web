@@ -5,40 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d0c56fe-b656-4103-9d72-f12402a9f7d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../abb-web-3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-web-3/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-web-3/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-web-3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-web-3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-web-3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-web-3/src/main/java/javaweb/CalcServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-web-3/src/main/java/javaweb/History.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-web-3/src/main/java/javaweb/HistoryItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-web-3/src/main/java/javaweb/HistoryServiceDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-web-3/src/main/java/javaweb/HistoryServiceInMemory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-web-3/src/main/java/javaweb/HistoryServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-web-3/src/main/java/javaweb/LogoutServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-web-3/src/main/java/javaweb/ServerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-web-3/src/main/java/javaweb/Session.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-web-3/src/main/java/javaweb/SessionRelated.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-web-3/target/classes/javaweb/CalcServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-web-3/target/classes/javaweb/History.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-web-3/target/classes/javaweb/HistoryItem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-web-3/target/classes/javaweb/HistoryServiceDatabase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-web-3/target/classes/javaweb/HistoryServiceInMemory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-web-3/target/classes/javaweb/HistoryServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-web-3/target/classes/javaweb/LogoutServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-web-3/target/classes/javaweb/ServerApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-web-3/target/classes/javaweb/Session.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abb-web-3/target/classes/javaweb/SessionRelated.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../abb-web-1/src/main/java/com/company/javaweb/ServerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../abb-web-1/src/main/java/com/company/javaweb/ServerApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abb-web-1/src/main/java/com/company/javaweb/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../abb-web-1/src/main/java/com/company/javaweb/HelloServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../abb-web-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../abb-web-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
