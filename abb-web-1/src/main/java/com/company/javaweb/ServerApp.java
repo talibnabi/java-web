@@ -1,5 +1,6 @@
 package com.company.javaweb;
 
+import com.company.javaweb.dao.DAOPizzaInMemory;
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.servlet.ServletContextHandler;
 import org.eclipse.jetty.servlet.ServletHolder;
@@ -13,7 +14,8 @@ public class ServerApp {
         CounterServlet counterServlet = new CounterServlet(counter);
         GetCounterServlet getCounterServlet = new GetCounterServlet(counter);
 
-        handler.addServlet(new ServletHolder(new HelloServlet()), "/hello");
+        DAOPizzaInMemory daoPizzaInMemory = new DAOPizzaInMemory();
+        handler.addServlet(new ServletHolder(new HelloServlet(daoPizzaInMemory)), "/hello");
         handler.addServlet(new ServletHolder(new HtmlFormattedServlet()), "/html");
         handler.addServlet(new ServletHolder(counterServlet), "/count");
         handler.addServlet(new ServletHolder(getCounterServlet), "/get");
