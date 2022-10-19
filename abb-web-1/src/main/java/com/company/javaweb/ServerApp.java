@@ -6,6 +6,9 @@ import org.eclipse.jetty.servlet.ServletContextHandler;
 import org.eclipse.jetty.servlet.ServletHolder;
 
 public class ServerApp {
+    //https://github.com/Ugleethyn/Login-Register-LogoutViaServlets
+    //https://github.com/shashirajraja/shopping-cart/tree/master/shopping-cart
+    //https://github.com/serdbasy/chatty/tree/master/src/com/chatty
     public static void main(String[] args) throws Exception {
         Server server = new Server(8089);
         ServletContextHandler handler = new ServletContextHandler();
