@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a019fc29-35b0-47e1-93a9-c8093a0caf01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/web01/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/web01/HtmlFormattedServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/web01/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/web01/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/web01/CountServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/web01/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/web01/GetCounterServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/company/web01/ServerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/web01/ServerApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/web01/test.http" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/web01/test.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/web01/HelloServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/web01/HelloServlet.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -97,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671551576777</updated>
-      <workItem from="1671551579412" duration="8595000" />
+      <workItem from="1671551579412" duration="9490000" />
     </task>
     <servers />
   </component>
