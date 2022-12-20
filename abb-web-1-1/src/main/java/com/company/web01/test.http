@@ -1,0 +1,13 @@
+GET http://localhost:8099/hello?x=5&y=9
+
+
+####
+POST http://localhost:8099/hello?user=Anaconda&password=1234
+
+
+####
+POST http://localhost:8099/hello
+Content-Type: application/x-www-form-urlencoded
+
+user=Anaconda&password=1234
+

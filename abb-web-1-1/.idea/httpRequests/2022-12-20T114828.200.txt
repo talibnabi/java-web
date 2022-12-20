@@ -1,0 +1,3 @@
+POST Method.
+user: Anaconda
+password: 1234

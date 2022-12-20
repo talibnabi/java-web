@@ -1,0 +1,75 @@
+POST http://localhost:8099/hello
+Content-Type: application/x-www-form-urlencoded
+
+user=Anaconda&password=1234
+
+<> 2022-12-20T114836.200.txt
+
+###
+
+POST http://localhost:8099/hello
+Content-Type: application/x-www-form-urlencoded
+user=Anaconda&password=1234:
+
+<> 2022-12-20T114833.400.html
+
+###
+
+POST http://localhost:8099/hello
+Content-Type: application/x-www-form-urlencoded
+
+user=Anaconda&password=1234
+
+<> 2022-12-20T114828.200.txt
+
+###
+
+POST http://localhost:8099/hello
+Content-Type: application/x-www-form-urlencoded
+
+<> 2022-12-20T114815.200.txt
+
+###
+
+POST http://localhost:8099/hello?user=Anaconda&password=1234
+
+<> 2022-12-20T114751.200.txt
+
+###
+
+GET http://localhost:8099/hello?x=5&y=9
+
+<> 2022-12-20T114748.200.txt
+
+###
+
+GET http://localhost:8099/hello?x=5&y=9
+
+###
+
+POST https://localhost:8099/hello?user=Anaconda&password=1234
+
+###
+
+POST http://localhost:8099/hello?user=Anaconda&password=1234
+
+###
+
+POST http://localhost:8099/hello?user=Anaconda&password=1234
+
+###
+
+POST http://localhost:8099/hello
+
+###
+
+GET http://localhost:8099/hello?x=5&y=9
+
+###
+
+GET http://localhost:8099/hello?x=5&y=9
+
+<> 2022-12-20T113814.200.txt
+
+###
+

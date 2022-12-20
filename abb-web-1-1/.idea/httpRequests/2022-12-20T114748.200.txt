@@ -1,0 +1,4 @@
+Hello from Java.Dinara is 5,Aylin is 9.Sum = 14
+null
+x=5&y=9
+{x=[5],y=[9]}
