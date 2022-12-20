@@ -9,7 +9,7 @@ public class ServerApp {
 
         ServletContextHandler handler = new ServletContextHandler();
         handler.addServlet(HelloServlet.class, "/hello");
-
+        handler.addServlet(HtmlFormattedServlet.class,"/format");
         server.setHandler(handler);
         server.start();
         server.join();

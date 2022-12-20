@@ -42,7 +42,9 @@ public class HelloServlet extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        String header = req.getHeader("Custom-header");
         try (PrintWriter printWriter = resp.getWriter()) {
+            printWriter.println("Header: " + header);
             printWriter.println("POST Method.");
             printWriter.println("user: " + req.getParameter("user"));
             printWriter.println("password: " + req.getParameter("password"));
