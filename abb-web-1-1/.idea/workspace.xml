@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fe80985-a2a4-47f3-b778-4ae25d226c64" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a019fc29-35b0-47e1-93a9-c8093a0caf01" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/web01/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/web01/ServerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/company/web01/ServerApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abb-web-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../abb-web-2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../abb-web-4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../abb-web-4/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,71 +35,35 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2GKWkBOU5UUFEhgJgFaMg04SUaH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2JBVgSBLgdaTR8MPp4aNYQFvLoC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Workspace/java-web/abb-web-2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Workspace\java-web\abb-web-2\src\main\resources\a" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Workspace\java-web\abb-web-2\src\main\java\com\company\javaweb" />
-      <recent name="C:\Workspace\java-web\abb-web-2\src\main\java\com\company\javaweb\ftl" />
-      <recent name="C:\Workspace\java-web\abb-web-2\src\main\resources" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.javaweb.ServerApp">
+  <component name="RunManager">
     <configuration name="ServerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.javaweb.ServerApp" />
-      <module name="abb-web-2" />
+      <option name="MAIN_CLASS_NAME" value="com.company.web01.ServerApp" />
+      <module name="abb-web-1-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.javaweb.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.company.javawebb.ServerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.javawebb.ServerApp" />
-      <module name="abb-web-2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.javawebb.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="javaweb.ServerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaweb.ServerApp" />
-      <module name="abb-web-2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaweb.*" />
+          <option name="PATTERN" value="com.company.web01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,8 +73,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.javaweb.ServerApp" />
-        <item itemvalue="Application.com.company.javawebb.ServerApp" />
         <item itemvalue="Application.ServerApp" />
       </list>
     </recent_temporary>
@@ -109,13 +80,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2fe80985-a2a4-47f3-b778-4ae25d226c64" name="Changes" comment="" />
-      <created>1666137898185</created>
+      <changelist id="a019fc29-35b0-47e1-93a9-c8093a0caf01" name="Changes" comment="" />
+      <created>1671551576777</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1666137898185</updated>
-      <workItem from="1666137900023" duration="5073000" />
-      <workItem from="1666167149026" duration="2010000" />
+      <updated>1671551576777</updated>
+      <workItem from="1671551579412" duration="2899000" />
     </task>
     <servers />
   </component>
@@ -132,8 +102,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

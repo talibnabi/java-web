@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d0c56fe-b656-4103-9d72-f12402a9f7d4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../abb-web-1/src/main/java/com/company/javaweb/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../abb-web-1/src/main/java/com/company/javaweb/HelloServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../abb-web-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../abb-web-2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -45,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666170268860</updated>
-      <workItem from="1666170270459" duration="1040000" />
+      <workItem from="1666170270459" duration="1042000" />
     </task>
     <servers />
   </component>
